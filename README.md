@@ -23,10 +23,13 @@ I am a Cybersecurity student developing practical skills in information security
 - VirtualBox
 
 **Projects**
+
 My practical cybersecurity projects, lab exercises and technical reports will be documented here.
 
 **Learning Goals**
+
 To develop practical cybersecurity skills, build secure systems and become a well-rounded cybersecurity professional.
 
 **Disclaimer**
+
 All security testing documented here is conducted in authorized labs or on systems where permission has been granted.
